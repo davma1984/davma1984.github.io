@@ -1,0 +1,58 @@
+#neworleans 
+{
+    color: rgb(160, 23, 23);
+    font-size: 80px;
+    font-family: fantasy;
+    text-align: center;
+    margin:0px;
+  
+}
+
+#bigeasy
+{
+    Color: rgb(76, 0, 255);
+    font-size: 60px;
+    font-family: fantasy;
+    text-align: center;
+    margin: 0px; 
+}
+
+#NO1
+{
+    height: 300px;
+    float: left;
+    /* display: block; */
+    /* margin:0 auto; */
+    border: 7px;
+    border-color: crimson;
+    border-style: double;
+    
+}
+
+#NO2
+{
+    height: 300px;
+    float: right;
+    /* display:block; */
+    /* margin:0 auto; */
+    border: 7px;
+    border-color: rgb(8, 78, 78);
+    border-style: double;
+}
+
+body {background-color: darkseagreen;}
+
+li {
+    color:red;
+    font-family: fantasy;
+    font-size: 30px;
+    background-color: burlywood
+}
+
+p {
+    color: rgb(8, 78, 78);
+    font-family: fantasy;
+    font-size: 15px
+}
+
+
